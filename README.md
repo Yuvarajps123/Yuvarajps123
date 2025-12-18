@@ -22,7 +22,11 @@
 
 
 ### 🧠 GeeksforGeeks Stats
-[![GeeksforGeeks Stats](https://gfgstatscard.vercel.app/yuva3ibww)](https://www.geeksforgeeks.org/user/yuva3ibww/)
+<p align="center">
+  <a href="https://www.geeksforgeeks.org/user/yuva3ibww/">
+    <img src="https://gfgstatscard.vercel.app/yuva3ibww" />
+  </a>
+</p>
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/yuvi_2004?theme=light&font=Shadows%20Into%20Light)
 
