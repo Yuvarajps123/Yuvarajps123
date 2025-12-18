@@ -22,7 +22,7 @@
 
 
 ### 🧠 GeeksforGeeks Stats
-[![GeeksforGeeks Stats](https://gfgstatscard.vercel.app/YUVARAJ)](https://www.geeksforgeeks.org/user/YUVARAJ/)
+[![GeeksforGeeks Stats](https://gfgstatscard.vercel.app/yuva3ibww)](https://www.geeksforgeeks.org/user/yuva3ibww/)
 
 
 
