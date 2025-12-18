@@ -1,9 +1,9 @@
 ## Hi there 👋 It's me Yuvaraj
 
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">                                               - 🌱 I’m currently learning DSA and Integrating AI to my workflow.
+<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">                                               -🌱 I’m currently learning DSA and Integrating AI to my workflow.
 - A Passionate Full Stack Developer focused on building scalabe web applications using MERN stack
 - I love solving real-world problems and learning new technologies
-- 🌱 Currently Learning
+-  🌱 Currently Learning
 - Advanced React patterns
 - Backend security best practices
 - System design basics
