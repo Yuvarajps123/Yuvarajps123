@@ -24,7 +24,7 @@
 ### 🧠 GeeksforGeeks Stats
 - Coding Score: **750+**
 - Problems Solved: **250+**
-🔗 https://www.geeksforgeeks.org/user/yuva3ibww/
+🔗 https://www.geeksforgeeks.org/profile/yuva3ibww?tab=activity
 
 ### 🧠 Leetcode Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/yuvi_2004?theme=light&font=Marcellus&ext=contest)
