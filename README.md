@@ -23,11 +23,11 @@
 
 ### 🧠 GeeksforGeeks Stats
 - Coding Score: **750+**
-- Problems Solved: **25+**
+- Problems Solved: **250+**
 🔗 https://www.geeksforgeeks.org/user/yuva3ibww/
 
 ### 🧠 Leetcode Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/yuvi_2004?theme=light&font=Shadows%20Into%20Light)
+![LeetCode Stats](https://leetcard.jacoblin.cool/yuvi_2004?theme=light&font=Marcellus&ext=contest)
 
 
 
