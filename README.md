@@ -22,12 +22,11 @@
 
 
 ### 🧠 GeeksforGeeks Stats
-<p align="center">
-  <a href="https://www.geeksforgeeks.org/user/yuva3ibww/">
-    <img src="https://gfgstatscard.vercel.app/yuva3ibww" />
-  </a>
-</p>
+- Coding Score: **750+**
+- Problems Solved: **25+**
+🔗 https://www.geeksforgeeks.org/user/yuva3ibww/
 
+### 🧠 Leetcode Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/yuvi_2004?theme=light&font=Shadows%20Into%20Light)
 
 
